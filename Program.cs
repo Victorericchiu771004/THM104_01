@@ -19,6 +19,7 @@ namespace THM104_01
                     Console.WriteLine(reader["city"].ToString());
                 }
 
+                Console.WriteLine("我好帥");
 
                 Console.WriteLine("Hello, World!");
             }
