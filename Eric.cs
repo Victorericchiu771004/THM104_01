@@ -12,7 +12,7 @@ namespace THM104_01
 
         public void Greeting()
         {
-            Console.WriteLine("Hello");
+            Console.WriteLine("Hello There");
         }
     }
 }
