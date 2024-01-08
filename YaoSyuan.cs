@@ -11,6 +11,9 @@ namespace THM104_01
         public void xxx() 
         {
             Console.WriteLine("test");
+            Console.WriteLine("test");
+            Console.WriteLine("test");
+            Console.WriteLine("test");
         }
     }
 }
