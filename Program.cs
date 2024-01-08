@@ -7,7 +7,7 @@ namespace THM104_01
 
             static void Main(string[] args)
             {
-                var connectionString = "Data Source=.;Initial Catalog=northwind;Integrated Security=True;Trust Server Certificate=True"
+            var connectionString = "Data Source=.;Initial Catalog=northwind;Integrated Security=True;Trust Server Certificate=True";
                 SqlConnection cn = new SqlConnection(connectionString);
                 cn.Open();
                 string qurey = "select * from customers";
