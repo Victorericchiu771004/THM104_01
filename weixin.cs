@@ -7,7 +7,7 @@ namespace THM104_01
 
             static void Main(string[] args)
             {
-                Console.WriteLine("Hello, World!"); 
+                Console.WriteLine("Hello, Wofd222sdfgrld!"); 
 
             }
         
