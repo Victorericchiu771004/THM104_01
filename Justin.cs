@@ -10,7 +10,7 @@ namespace THM104_01
     {
         public void justin123()
         {
-            Console.WriteLine("大家好");
+            Console.WriteLine("大家好123");
         }
     }
 }
